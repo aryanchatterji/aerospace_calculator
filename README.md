@@ -23,4 +23,4 @@ This repository contains a standalone, Python-based orbital mechanics calculator
 *   **Data Handling:** Standard Python I/O methodologies for parsing unstructured and structured data files (`.csv`, `.txt`, `.pdf`).
 
 ---
-*Note: This repository is maintained as a private portfolio of computational physics research and aerospace engineering development.*
+*Note: This repository is maintained as a public portfolio of computational physics research and aerospace engineering development.*
